@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "7BDKEPMWR2.com.xinchao.dcrm.sit",
-                "paths": [ "*" ]
+                "paths": [ "/sdksample/*" ]
             }
         ]
     }
